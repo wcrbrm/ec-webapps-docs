@@ -5,3 +5,5 @@ Table of Contents
 3. [Routing](routing.md)
 4. [Writing Custom Components](custom-components.md)
 5. [Standard Components](standard-components.md)
+6. [Conditions](conditions.md)
+6. [Actions](actions.md)
