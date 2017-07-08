@@ -43,11 +43,11 @@ On the next step, lets create the application itself. The fastest way to have it
 ```
 npm install -g create-react-app
 create-react-app ec-first-app
+cd ec-first-app
+npm install --save ec-react15-lib
 ```
-Then inside of `node_modules` you can download and unpack **the library**
-[ec-react15-lib](https://dist.webcerebrium.com/ec-react15-lib.zip). This step should be more seamless in future
 
-To have the simplest example working, you can clean up all files in `src` folder, leaving only `src/index.js` with the following contents:
+To have the simplest example working, you can remove up all files in `src/` folder, leaving only `src/index.js` with the following contents:
 
 ```
 import ec from 'ec-react15-lib';
